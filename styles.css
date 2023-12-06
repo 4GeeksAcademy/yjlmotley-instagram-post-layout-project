@@ -1,0 +1,44 @@
+html {
+    background-color: black;
+}
+div.post {
+    background-color: white;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    margin: 70px auto;
+    width: 500px;
+}
+.post-header {
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+i {
+    padding-right: 10px;
+}
+div .fa-html5 {
+    font-size: 2em;
+}
+div .fa-ellipsis-vertical {
+    display: flex;
+    font-size: 2em;
+    float: right;
+}
+.post-img {
+    width: 100%;
+}
+.post-icons {
+    display: flex;
+    font-size: 2em;
+    padding: 15px;
+}
+div .fa-bookmark {
+    float: right;
+}
+p {
+    margin: 0;
+    padding: 0 1em 1em 1em;
+}
