@@ -25,7 +25,7 @@ div .fa-html5 {
 div .fa-ellipsis-vertical {
     display: flex;
     font-size: 2em;
-    float: right;
+    margin-left: auto;
 }
 .post-img {
     width: 100%;
@@ -36,7 +36,7 @@ div .fa-ellipsis-vertical {
     padding: 15px;
 }
 div .fa-bookmark {
-    float: right;
+    margin-left: auto;
 }
 p {
     margin: 0;
